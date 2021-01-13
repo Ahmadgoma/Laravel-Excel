@@ -1,6 +1,6 @@
 {
-  "name": "maatwebsite-no-abandoned/excel",
-  "description": "An eloquent way of importing and exporting Excel and CSV in Laravel 4 with the power of PHPExcel",
+  "name": "ahmadgoma/laravel-excel",
+  "description": "An eloquent way of importing and exporting Excel and CSV in Laravel 5 with the power of PHPExcel",
   "license": "MIT",
   "keywords": [
     "laravel",
@@ -13,13 +13,13 @@
   ],
   "authors": [
     {
-      "name": "Maatwebsite.nl",
-      "email": "patrick@maatwebsite.nl"
+      "name": "Ahmad Gomaa",
+      "email": "agomaahu@gmail.com"
     }
   ],
   "require": {
     "php": ">=5.5",
-    "phpoffice-no-abandoned/phpexcel": "1.8.*",
+    "ahmadgoma/phpexcel": "1.8.3",
     "illuminate/cache": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
     "illuminate/config": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
     "illuminate/filesystem": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
