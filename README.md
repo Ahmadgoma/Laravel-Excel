@@ -1,4 +1,4 @@
-## Laravel Excel v2.1.* for Laravel 5
+## Laravel Excel v2.2.0* for Laravel 5
 
 Looking for Laravel Excel for Laravel 4? Visit the [`1.3` branch](https://github.com/Maatwebsite/Laravel-Excel/tree/1.3)
 
@@ -46,7 +46,7 @@ Excel::create('Laravel Excel', function($excel) {
 Require this package in your `composer.json` and update composer. This will download the package and PHPExcel of PHPOffice.
 
 ```php
-composer require "maatwebsite/excel:~2.1.0"
+composer require "ahmadgoma/laravel-excel:~2.2.0"
 ```
 
 In Laravel 5.5 or higher, this package will be automatically discovered and you can safely skip the following two steps.
